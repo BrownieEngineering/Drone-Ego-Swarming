@@ -5,6 +5,7 @@ This guide explains the hardware, software, operating system, ROS version, PX4 v
 ## Planned Contents
 
 - Operating System
+  - bleh bleh
 - ROS2
 - Gazebo
 - PX4
