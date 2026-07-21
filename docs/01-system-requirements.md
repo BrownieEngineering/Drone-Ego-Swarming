@@ -46,14 +46,13 @@ Recommended minimums:
 
 | Resource | Recommendation |
 |---|---|
-| Processor | Modern four-core CPU or better |
-| Memory | 16 GB RAM recommended |
-| Storage | At least 30 GB of free space |
-| Graphics | Hardware-accelerated graphics recommended |
-| Network | Internet connection required during installation |
-| Display | 1080p or larger recommended for Gazebo and RViz |
-
-Lower-specification machines may work, but simulation speed, sensor update rates, and visualization performance may be reduced.
+| Processor | Modern six-core CPU or better recommended |
+| Memory | 16 GB minimum; 32 GB recommended for multi-drone development |
+| Storage | At least 40 GB of free SSD space |
+| Graphics | Dedicated NVIDIA GPU recommended |
+| Tested GPU | GTX 1060; functional but moderately slow under the complete stack |
+| Preferred GPU | Newer NVIDIA GPU with proprietary Linux driver |
+| Display | 1080p or larger recommended |
 
 ## Required operating system
 
