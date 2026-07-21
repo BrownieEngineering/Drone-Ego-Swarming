@@ -8,7 +8,7 @@ The goal is to preserve technical knowledge that cannot easily be understood by 
 
 # Milestone 1
 
-Keyboard control successfully connected to PX4.
+Keyboard control successfully connected to PX4 by completing calls and echos to determine where the information is going and if said information was being recieved. By creating a mnaul prige between PX4 and the publisher I was able to determine the launhc file had an improper ordering that woudl not correctly launch the Agent.
 
 Commands:
 
@@ -30,6 +30,8 @@ EGO Planner generated trajectories.
 The drone did not follow them.
 
 Investigation showed that the bridge was receiving planner commands but never forwarding them to PX4.
+
+Issue was then solved in Milestone 3
 
 ---
 
@@ -87,3 +89,5 @@ PX4
 ↓
 
 Gazebo
+
+Meaning the setup was completed.
