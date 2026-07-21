@@ -1,6 +1,7 @@
 # Drone-Ego-Swarming
 Using ROS2 Humble, PX4, QGroundControl, Gazebo, Micro XRCE Agent, Mavros2, and Ubuntu 22.04 to create a swarming repo for Search and Rescue. This repository contains all modifications required to connect
 EGO Planner with PX4 Offboard control for autonomous drone navigation and future swarm-based search and rescue research. The build references this repo "https://github.com/DongnanHu6556/ego-planner-ros2-sim.git"
+
 Conditions at time of test:
 
     Tested operating system: Ubuntu 22.04 
