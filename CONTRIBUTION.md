@@ -1,77 +1,78 @@
 # Contributing
 
-This repository is maintained for collaborative development of the Drone EGO Swarming project.
+Thank you for contributing or referencing the Drone EGO Swarming project.
 
-## Branch workflow
 
-Do not make experimental changes directly on `main`.
+---
 
-Create a separate branch for each focused change.
+# Branch Workflow
 
-Examples:
+Do **not** develop directly on `main`.
 
-```text
-docs/installation-guide
+Instead:
+
+1. Create a branch from `main`
+2. Make one focused change
+3. Commit your work
+4. Open a Pull Request
+5. Merge into `main`
+
+Example branch names:
+
+```
+docs/installation
 docs/troubleshooting
-fix/vehicle-status-topic
-feature/multi-drone-launch
-feature/search-pattern-planner
+feature/multi-drone
+feature/search-algorithm
+fix/vehicle-status-v4
 ```
 
-## Standard contribution process
+---
 
-1. Begin from the current `main` branch.
-2. Create a descriptive branch.
-3. Make one focused group of changes.
-4. Commit each logical change with a descriptive message.
-5. Open a pull request into `main`.
-6. Describe what changed and why.
-7. Request review from another team member when possible.
-8. Address review comments.
-9. Merge after approval and testing.
-10. Delete the merged branch.
+# Pull Requests
 
-## Pull request requirements
+Every Pull Request should explain:
 
-Each pull request should explain:
+- What changed
+- Why it changed
+- Which files changed
+- How it was tested
+- Any known limitations
 
-- what changed,
-- why the change was needed,
-- which files were affected,
-- how the change was tested,
-- known limitations,
-- and whether the documentation was updated.
+---
 
-## Documentation requirements
+# Documentation
 
-Update the documentation when any of these change:
+Whenever code changes, documentation should also be updated.
 
-- installation command,
-- launch command,
-- ROS topic name,
-- ROS message version,
-- source-file path,
-- keyboard command,
-- workspace layout,
-- required dependency,
-- expected terminal output,
-- or troubleshooting procedure.
+Examples include:
 
-## Files that must not be committed
+- launch commands
+- ROS topics
+- message versions
+- build commands
+- setup procedures
+- troubleshooting steps
 
-Do not upload:
+---
 
-- ROS 2 `build/`, `install/`, or `log/` directories,
-- PX4 compiled build output,
-- generated Gazebo caches,
-- QGroundControl AppImages,
-- ROS bag recordings unless specifically approved,
-- passwords,
-- access tokens,
-- private keys,
-- API credentials,
-- or private machine configuration.
+# Files NOT to Upload
 
-## Simulation requirement
+Do not commit:
 
-Changes to the flight-control or planning path should be tested in simulation before being proposed for physical-vehicle use.
+- build/
+- install/
+- log/
+- PX4 build directories
+- Gazebo cache folders
+- QGroundControl AppImages
+- passwords
+- tokens
+- private keys
+- API credentials
+
+---
+
+# Simulation First
+
+All flight-control modifications should be validated in simulation before being considered for physical hardware.
