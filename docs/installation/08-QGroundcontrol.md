@@ -98,9 +98,7 @@ PX4
 Gazebo
 ```
 
-QGroundControl simply monitors PX4 while this process occurs.
-
-Think of it as the vehicle dashboard rather than the navigation system.
+QGroundControl only monitors PX4 during this process.
 
 ---
 
@@ -129,9 +127,6 @@ ROS2
 
 EGO Planner
 ```
-
-Notice that QGroundControl and ROS 2 both communicate with PX4, but
-they perform different jobs.
 
 ROS 2 controls the mission.
 
