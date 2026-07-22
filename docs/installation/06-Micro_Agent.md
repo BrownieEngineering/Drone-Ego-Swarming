@@ -128,7 +128,7 @@ PX4
 Gazebo
 ```
 
-Notice that every PX4 message travels through this component.
+Every PX4 message travels through this component.
 
 Examples include:
 
@@ -157,6 +157,8 @@ https://micro-xrce-dds.docs.eprosima.com/
 PX4 ROS 2 Documentation
 
 https://docs.px4.io/main/en/ros2/
+
+unless already cloned into from another git.
 
 ---
 
