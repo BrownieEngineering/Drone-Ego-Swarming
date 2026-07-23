@@ -13,39 +13,48 @@ the standard installation procedures for PX4, ROS 2, or Gazebo.
 
 Project Configuration and Code Modifications
 
-4.1 Overview of Project Modifications
+### 4.1 Overview of Project Modifications
 
 See:
 
-[01-project-modification-overview.md](workspace/01-overview.md)
+[01-project-modification-overview.md](project-configuration/01-project-modification-overview.md)
 
-4.2 Integrating the PX4 Bridge
+---
 
-See:
-
-[02-lauch-system-configuration.md](workspace/02-launch-system-config.md)
-
-4.3 Modifying PX4 Launch Files
+### 4.2 Integrating the PX4 Bridge
 
 See:
 
-[03-modifying-communication-architecture.md](workspace/03-modding-comms-architecture.md)
+[02-integrating-the-px4-bridge.md](project-configuration/02-integrating-the-px4-bridge.md)
 
-4.4 Keyboard Publisher Configuration
+---
 
-See:
-
-[04-keyboard-publisher-configuration.md](workspace/04-keyboard-publisher-config.md)
-
-4.5 Communication Pipeline Verification
+### 4.3 Modifying PX4 Launch Files
 
 See:
 
-[05-communication-pipeline-verification.md](workspace/05-comms-pipeline-verif.md)
+[03-modifying-px4-launch-files.md](project-configuration/03-modifying-px4-launch-files.md)
 
-4.6 Project Modification Verification
+---
+
+### 4.4 Keyboard Publisher Configuration
 
 See:
 
-[04-project-modification-verification.md](workspace-setup/06-mod-verif.md)
+[04-keyboard-publisher-configuration.md](project-configuration/04-keyboard-publisher-configuration.md)
 
+---
+
+### 4.5 Communication Pipeline Verification
+
+See:
+
+[05-communication-pipeline-verification.md](project-configuration/05-communication-pipeline-verification.md)
+
+---
+
+### 4.6 Project Modification Verification
+
+See:
+
+[06-project-modification-verification.md](project-configuration/06-project-modification-verification.md)
