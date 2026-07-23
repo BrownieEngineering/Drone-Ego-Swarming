@@ -397,16 +397,8 @@ Use this checklist before moving on.
 | Shell Configuration | ☐ |
 
 ---
+If confirmed to be all commplete, 
 
-# Completion
-
-Congratulations.
-
-At this point the complete software environment required by the Drone
-EGO Swarming project has been installed and verified.
-
-No project-specific code has been modified yet.
-
-The next chapter begins constructing the Drone EGO Swarming workspace.
+Good job !
 
 ➡ Continue to **Chapter 3 — Workspace Setup**
