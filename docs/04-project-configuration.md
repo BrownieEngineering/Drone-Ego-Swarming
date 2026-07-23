@@ -1,9 +1,11 @@
 # Chapter 4 — Project Configuration
 
+This chapter documents the project-specific configuration required to
+allow PX4, Gazebo, ROS 2, and the EGO Planner to communicate correctly.
 
-This chapter explains what was changed so that
-all files/programs can properly communicate 
-and be integrated to begin our swarming launch
+Unlike the previous chapters, the procedures described here are unique
+to the Drone EGO Swarming project. These modifications are not part of
+the standard installation procedures for PX4, ROS 2, or Gazebo.
 
 The workspace setup is divided into several sections.
 
