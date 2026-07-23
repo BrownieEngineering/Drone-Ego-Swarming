@@ -7,10 +7,6 @@ Unlike the previous chapters, the procedures described here are unique
 to the Drone EGO Swarming project. These modifications are not part of
 the standard installation procedures for PX4, ROS 2, or Gazebo.
 
-The workspace setup is divided into several sections.
-
-Complete each section in order.
-
 ---
 
 ## Chapters
