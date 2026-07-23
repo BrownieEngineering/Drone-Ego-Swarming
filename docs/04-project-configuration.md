@@ -23,7 +23,7 @@ See:
 
 See:
 
-[02-PX4-briddge-integration.md](workspace/02-px4-bridge-integration.md)
+[02-lauch-system-configuration.md](workspace/02-launch-system-config.md)
 
 4.3 Modifying PX4 Launch Files
 
