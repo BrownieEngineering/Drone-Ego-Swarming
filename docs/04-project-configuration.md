@@ -19,7 +19,7 @@ Project Configuration and Code Modifications
 
 See:
 
-[01-project-modification-overview.md.md](workspace/01-overview.md)
+[01-project-modification-overview.md](workspace/01-overview.md)
 
 4.2 Integrating the PX4 Bridge
 
