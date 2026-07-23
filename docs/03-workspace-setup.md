@@ -59,7 +59,7 @@ See:
 
 See:
 
-[04-building-the-workspace.md](workspace-setup/04-building-the-workspace.md)
+[04-building-the-workspace.md](workspace-setup/04-building-the-ros-workspace.md)
 
 ---
 
