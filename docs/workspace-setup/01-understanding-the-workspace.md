@@ -16,7 +16,7 @@ workspace.
 The Drone EGO Swarming project follows this standard ROS 2 structure.
 
 Understanding the purpose of each workspace directory will make future
-builds, debugging, and package management significantly easier.
+builds, debugging, and package management a little easier
 
 ---
 
@@ -69,7 +69,7 @@ Each directory serves a different purpose.
 The **src** directory stores the source code for every ROS package that
 will be built.
 
-Examples include:
+Examples would be:
 
 - EGO Planner
 - px4_msgs
@@ -144,7 +144,7 @@ Like the build directory, it is generated automatically.
 
 Building the workspace does not automatically make packages available.
 
-The general process is:
+The general flow is:
 
 ```text
 Source Code
@@ -279,9 +279,7 @@ Before continuing, verify:
 
 ---
 
-# Transition
-
-Now that the workspace structure is understood, the next chapter creates
+Now that we understand the workspace structure, the next chapter creates
 the directory structure used throughout the Drone EGO Swarming project.
 
 ➡ Continue to **Chapter 3.2 — Directory Structure**
