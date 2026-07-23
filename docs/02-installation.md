@@ -93,7 +93,7 @@ See:
 
 See:
 
-[08-qgroundcontrol.md](installation/08-qgroundcontrol.md)
+[08-QGroundControl.md](installation/08-qgroundcontrol.md)
 
 ---
 
@@ -101,4 +101,4 @@ See:
 
 See:
 
-[09-installation-verification.md](installation/09-installation-verification.md)
+[09-Verifying_Install.md](installation/09-Verifying_Install.md)
