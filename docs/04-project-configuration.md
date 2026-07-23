@@ -17,7 +17,7 @@ Project Configuration and Code Modifications
 
 See:
 
-[01-project-modification-overview.md](project-configuration/01-project-modification-overview.md)
+[01-project-modification-overview.md](project-configuration/01-overview.md)
 
 ---
 
@@ -25,7 +25,7 @@ See:
 
 See:
 
-[02-integrating-the-px4-bridge.md](project-configuration/02-integrating-the-px4-bridge.md)
+[02-integrating-the-px4-bridge.md](project-configuration/02-integrate-px4-bridge.md)
 
 ---
 
@@ -33,7 +33,7 @@ See:
 
 See:
 
-[03-modifying-px4-launch-files.md](project-configuration/03-modifying-px4-launch-files.md)
+[03-modifying-px4-launch-files.md](project-configuration/03-modding-px4-launch.md)
 
 ---
 
@@ -41,7 +41,7 @@ See:
 
 See:
 
-[04-keyboard-publisher-configuration.md](project-configuration/04-keyboard-publisher-configuration.md)
+[04-keyboard-publisher-configuration.md](project-configuration/04-key-publish-config.md)
 
 ---
 
@@ -49,7 +49,7 @@ See:
 
 See:
 
-[05-communication-pipeline-verification.md](project-configuration/05-communication-pipeline-verification.md)
+[05-communication-pipeline-verification.md](project-configuration/05-verify-pipeline-comms.md)
 
 ---
 
@@ -57,4 +57,4 @@ See:
 
 See:
 
-[06-project-modification-verification.md](project-configuration/06-project-modification-verification.md)
+[06-project-modification-verification.md](project-configuration/06-verify-project-mod.md)
