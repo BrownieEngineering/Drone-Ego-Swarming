@@ -29,7 +29,7 @@ See:
 
 See:
 
-[03-modifying-PX4-launch-files.md](workspace/03-modding-px4-files.md)
+[03-modifying-communication-architecture.md](workspace/03-modding-comms-architecture.md)
 
 4.4 Keyboard Publisher Configuration
 
